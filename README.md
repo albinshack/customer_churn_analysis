@@ -17,4 +17,4 @@ Business Recommendations
 • Offer retention incentives
 
 Outcome
-This project demonstrates the ability to analyze customer data and generate actionable insights to reduce churn.
+This project demonstrates the ability to analyze customer data and generate actionab
